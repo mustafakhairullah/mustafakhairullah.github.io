@@ -3,7 +3,7 @@
 
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://github.com/mustafakhairullah/mustafakhairullah.github.io.git'
 
 PATH = 'content'
 

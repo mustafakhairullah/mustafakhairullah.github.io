@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://github.com/mustafakhairullah/mustafakhairullah.github.io'
+SITEURL = 'https://github.com/mustafakhairullah/mustafakhairullah.github.io.git'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
